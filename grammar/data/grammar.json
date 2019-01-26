@@ -67,7 +67,7 @@
   "should of": "should have*",
   "could of": "could have*",
   "would of": "would have*",
-  "whos": "whose/who's",
-  "heem": "him",
-  "youll": "you'll"
+  "whos": "whose/who's*",
+  "heem": "him*",
+  "youll": "you'll*"
 }
